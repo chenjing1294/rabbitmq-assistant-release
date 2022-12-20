@@ -39,7 +39,7 @@ Download the latest tarball, then
 
 ---
 
-- When running the Mac version, an error is reported: "It is damaged and cannot be opened. You should move it to the trash", because the current version is not signed and is blocked by Mac [GateKeeper](https://support.apple.com/zh -cn/guide/security/sec5599b66df/web) mechanism interception; open the terminal and enter the following command to release the isolation of RabbitMQ Assistant: `sudo xattr -rd com.apple.quarantine /Applications/RabbitMQ\ Assistant.app`
+- When running the Mac version, an error is reported: "It is damaged and cannot be opened. You should move it to the trash", because the current version is not signed and is blocked by Mac [GateKeeper](https://support.apple.com/zh-cn/guide/security/sec5599b66df/web) mechanism interception; open the terminal and enter the following command to release the isolation of RabbitMQ Assistant: `sudo xattr -rd com.apple.quarantine /Applications/RabbitMQ\ Assistant.app`
 
 ---
 
