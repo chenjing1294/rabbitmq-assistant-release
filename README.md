@@ -13,7 +13,7 @@
 
 
 
-## 安装
+## Install
 
 **macOS**
 
@@ -30,7 +30,7 @@ Download the latest tarball, then
 
 ## Common Problem
 
-- An error was reported about the installation of the Mac version: "It is damaged and cannot be opened. You should launch the disk image", because the current version is not signed and is blocked by Mac [GateKeeper](https://support.apple.com/zh-cn/ guide/security/sec5599b66df/web) mechanism interception. Temporarily disable Getkeeper (after installing it) by following these steps:
+- An error was reported about the installation of the Mac version: "It is damaged and cannot be opened. You should launch the disk image", because the current version is not signed and is blocked by Mac [GateKeeper](https://support.apple.com/zh-cn/guide/security/sec5599b66df/web) mechanism interception. Temporarily disable Getkeeper (after installing it) by following these steps:
 
     1. Select "Anywhere" in "System Preferences" -> "Security & Privacy"; if your system does not have this option, open this settings page again after executing the following command in the terminal, and check "Anywhere":`sudo spctl --master-disable`
     1. Double-click to install RabbitMQ Assistant.
