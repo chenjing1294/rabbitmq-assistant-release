@@ -7,9 +7,9 @@
 - Fedora 30 and higher
 
 ## Download
-[**Windows**](https://github.com/chenjing1294/rabbitmq-assistant-release)
-&emsp;[**macOS**](https://github.com/chenjing1294/rabbitmq-assistant-release)
-&emsp;[**Linux**](https://github.com/chenjing1294/rabbitmq-assistant-release)
+[**Windows**](https://github.com/chenjing1294/rabbitmq-assistant-release/releases)
+&emsp;[**macOS**](https://github.com/chenjing1294/rabbitmq-assistant-release/releases)
+&emsp;[**Linux**](https://github.com/chenjing1294/rabbitmq-assistant-release/releases)
 
 
 
